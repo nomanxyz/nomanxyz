@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Abdulla Al Noman</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nomanxyz/gif/master/Wave.gif" height="55px" width="55px">, I'm Abdulla Al Noman</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Full Stack Web Developer
